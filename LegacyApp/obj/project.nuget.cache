@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I0t+XLm60uMj0/Gso9uqDUPfZl0POFt0S7O6shyqS1Iz+359VoH4la2kOwp0tfPATQnVUMvW/qaIWTtMzd4yuw==",
+  "success": true,
+  "projectFilePath": "/Users/imsemiautomatic_/Downloads/zadanie_solution/LegacyApp/LegacyApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/imsemiautomatic_/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/imsemiautomatic_/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
