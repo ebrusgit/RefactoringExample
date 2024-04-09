@@ -33,3 +33,4 @@
 /Users/imsemiautomatic_/Downloads/zadanie_solution/LegacyAppConsumer/obj/Debug/netcoreapp3.1/LegacyAppConsumer.dll
 /Users/imsemiautomatic_/Downloads/zadanie_solution/LegacyAppConsumer/obj/Debug/netcoreapp3.1/LegacyAppConsumer.pdb
 /Users/imsemiautomatic_/Downloads/zadanie_solution/LegacyAppConsumer/obj/Debug/netcoreapp3.1/LegacyAppConsumer.genruntimeconfig.cache
+/Users/imsemiautomatic_/Downloads/zadanie_solution/LegacyAppConsumer/obj/Debug/netcoreapp3.1/LegacyAppConsumer.sourcelink.json

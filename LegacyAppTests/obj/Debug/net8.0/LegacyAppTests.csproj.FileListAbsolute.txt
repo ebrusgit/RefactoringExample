@@ -201,3 +201,4 @@
 /Users/imsemiautomatic_/Downloads/zadanie_solution/LegacyAppTests/obj/Debug/net8.0/LegacyAppTests.pdb
 /Users/imsemiautomatic_/Downloads/zadanie_solution/LegacyAppTests/obj/Debug/net8.0/LegacyAppTests.genruntimeconfig.cache
 /Users/imsemiautomatic_/Downloads/zadanie_solution/LegacyAppTests/obj/Debug/net8.0/ref/LegacyAppTests.dll
+/Users/imsemiautomatic_/Downloads/zadanie_solution/LegacyAppTests/obj/Debug/net8.0/LegacyAppTests.sourcelink.json

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SCPPjeP2mWr2CqtOS28g00Q9PvrQrVIT+ytXlX8nJpdGLX082uJCLEFx1Flh7LHFUeBmw9km7J7O2nKSB6V3NA==",
+  "dgSpecHash": "PqjSiN/KnVvXQ2uDHnNMX2yBBUmewpawGR2E0RQ/Cbb7BOGubQQtM/mX1QHfubLoVWV+PmGahCpUcgxBAA0gLw==",
   "success": true,
   "projectFilePath": "/Users/imsemiautomatic_/Downloads/zadanie_solution/LegacyAppConsumer/LegacyAppConsumer.csproj",
-  "expectedPackageFiles": [
-    "/Users/imsemiautomatic_/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/Users/imsemiautomatic_/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/imsemiautomatic_/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
